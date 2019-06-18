@@ -1,5 +1,6 @@
 ---
 galaxy_info:
+  role_name: versioncontrol_utils
   author: ome-devel@lists.openmicroscopy.org.uk
   description: Utilities for managing source code
   company: Open Microscopy Environment
