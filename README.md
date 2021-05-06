@@ -1,7 +1,7 @@
 Version control utilities
 =========================
 
-[![Build Status](https://travis-ci.org/ome/ansible-role-versioncontrol-utils.svg)](https://travis-ci.org/ome/ansible-role-versioncontrol-utils)
+[![Actions Status](https://github.com/ome/ansible-role-versioncontrol-utils/workflows/Molecule/badge.svg)](https://github.com/ome/ansible-role-versioncontrol-utils/actions)
 [![Ansible Role](https://img.shields.io/ansible/role/41370.svg)](https://galaxy.ansible.com/ome/versioncontrol_utils/)
 
 Utilities for managing source code.
