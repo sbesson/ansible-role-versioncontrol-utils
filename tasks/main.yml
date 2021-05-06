@@ -10,7 +10,5 @@
 - name: system packages | basic system utils
   become: true
   yum:
-    name: "{{ item }}"
+    name: ['git']
     state: present
-  with_items:
-    - git
